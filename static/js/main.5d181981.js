@@ -12417,7 +12417,7 @@ n.m = e, n.n = function(e) {
                                 children: "About"
                             })
                         }), (0, Ge.jsx)("a", {
-                            href: "https://codepen.io/gayane-gasparyan/pens/popular",
+                            href: "https://protestant.notion.site/protestant/0943bb58039f4d09a8de1a111e3a83fe?v=4c49c9bfcf5c4cf9a5be333d1aab5302",
                             target: "_blank",
                             rel: "noreferrer",
                             children: (0, Ge.jsx)($t, {
