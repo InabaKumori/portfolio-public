@@ -11863,7 +11863,7 @@ n.m = e, n.n = function(e) {
                         children: [(0, Ge.jsx)("h1", {
                             children: "Hey there!"
                         }), (0, Ge.jsx)("h1", {
-                            children: "I'm Gayane. I create things."
+                            children: "I'm Trcoot. I create things."
                         })]
                     })]
                 })
